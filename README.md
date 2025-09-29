@@ -1,0 +1,1 @@
+Full Stack Employee Management System — A React + Django REST Framework application with JWT authentication, allowing admin users to securely manage employees, register users, and set permissions through an interactive dashboard.
